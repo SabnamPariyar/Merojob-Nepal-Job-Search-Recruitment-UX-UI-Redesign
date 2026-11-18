@@ -2,7 +2,7 @@
 
 ![Merojob — Nepal Career Experience](docs/merojob-cover.svg)
 
-[![Launch Merojob interactive prototype](docs/preview-button.svg)](https://merojob-sabnam-career-ux-2026.sandeep-pariyar.chatgpt.site)
+[![Launch Merojob interactive prototype](docs/preview-button.svg)](https://sabnampariyar.github.io/Merojob-Nepal-Job-Search-Recruitment-UX-UI-Redesign/)
 
 *Explore an interactive Nepal-first employment experience, then visit its design system, moodboard and case study.*
 
